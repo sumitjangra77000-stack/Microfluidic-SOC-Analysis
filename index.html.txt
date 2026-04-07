@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microfluidic SOC Analysis | Aryan Tyagi</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f4f4f9; }
+        header { background: #003366; color: white; padding: 2rem; text-align: center; border-radius: 8px; margin-bottom: 20px; }
+        .container { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h2 { color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px; }
+        .btn { display: inline-block; background: #003366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px; }
+        .btn:hover { background: #00509e; }
+        .code-box { background: #272822; color: #f8f8f2; padding: 15px; border-radius: 5px; overflow-x: auto; font-family: monospace; }
+        footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #666; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Microfluidic Pressure Avalanches</h1>
+    <p>A Study of Self-Organized Criticality (SOC) in Porous Networks</p>
+</header>
+
+<div class="container">
+    <h2>Project Overview</h2>
+    <p>Ye project complexity science ke principles ko use karke microchannel networks mein "pressure avalanches" ko study karta hai. Humne dikhaya hai ki kaise chhote-chhote clogs milkar bade system failures trigger kar sakte hain.</p>
+
+    <h2>Simulation Details</h2>
+    <ul>
+        <li><strong>Platform:</strong> NetLogo</li>
+        <li><strong>Concept:</strong> Bak-Tang-Wiesenfeld (BTW) Sandpile Model</li>
+        <li><strong>Key Findings:</strong> Avalanche sizes follow a Power-Law distribution.</li>
+    </ul>
+
+    <h2>NetLogo Source Code</h2>
+    <p>Aap is simulation ka poora code yahan se download ya view kar sakte hain:</p>
+    <a href="LINK_TO_YOUR_NETLOGO_FILE" class="btn">View NetLogo Code on GitHub</a>
+
+    <h2>Visualizing the Avalanche</h2>
+    <p>Simulation mein niche diye gaye patterns bante hain:</p>
+    <ul>
+        <li><strong>Red Patches:</strong> High pressure zones (Danger).</li>
+        <li><strong>White Patches:</strong> Active Avalanches (Pressure redistribution).</li>
+        <li><strong>Black/Blue Patches:</strong> Stable state.</li>
+    </ul>
+
+    <h2>Project Report</h2>
+    <p>Is project ki detailed manuscript (12+ pages) Overleaf par LaTeX ke through banayi gayi hai, jo academic standards ko follow karti hai.</p>
+</div>
+
+<footer>
+    <p>&copy; 2026 Aryan Tyagi | IIT Delhi - Department of Chemical Engineering</p>
+</footer>
+
+</body>
+</html> 
