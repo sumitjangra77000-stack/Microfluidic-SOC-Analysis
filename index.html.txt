@@ -35,7 +35,7 @@
 
     <h2>NetLogo Source Code</h2>
     <p>Aap is simulation ka poora code yahan se download ya view kar sakte hain:</p>
-    <a href="LINK_TO_YOUR_NETLOGO_FILE" class="btn">View NetLogo Code on GitHub</a>
+    <a href="https://raw.githubusercontent.com/sumitjangra77000-stack/Microfluidic-SOC-Analysis/refs/heads/main/2025CHZ8278.nlogox" class="btn">View NetLogo Code on GitHub</a>
 
     <h2>Visualizing the Avalanche</h2>
     <p>Simulation mein niche diye gaye patterns bante hain:</p>
